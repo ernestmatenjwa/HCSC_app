@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+    margin-top: 5%;
+    font-weight: bolder;
+    font-size: 100px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 8px 8px 8px red;
+    color: whitesmoke;
+    
+}
+.wel_msg{
+    text-align: center;
+    color: rgb(231, 255, 12);
+    font-size: x-large;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: red;
+}
+body{
+   background-color: brown;
+}
+.footer{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: 7.5%;
+}
